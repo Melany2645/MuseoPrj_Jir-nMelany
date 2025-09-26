@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Persona
+comment0.text=\r\n\ Clase\ Persona.\r\n\r\n\ @author\ Melany\ Jir\u00F3n\r\n\ @version\ 1.0\r\n
+comment1.params=nombre\ ident
+comment1.target=Persona(java.lang.String,\ java.lang.String)
+comment2.params=nombre
+comment2.target=Persona(java.lang.String)
+comment3.params=pIdentificacion
+comment3.target=void\ setIdentificacion(java.lang.String)
+comment4.params=pMiBoleto
+comment4.target=void\ asignarBoleto(BoletoMuseo)
+comment5.params=
+comment5.target=int\ consultarMiNumeroDeBoleto()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
